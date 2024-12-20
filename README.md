@@ -46,7 +46,7 @@ VITE_CARBON_MARKET_ADDRESS=market_contract_address
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/carbonflow.git
+git clone https://github.com/1995th/carbonflow.git
 cd carbonflow
 ```
 
