@@ -1,6 +1,6 @@
 # CarbonFlow - Carbon Credit Platform
 
-CarbonFlow is a DeFi web application that enables users to trade verified carbon credits on the blockchain, providing a transparent and efficient marketplace for environmental impact.
+CarbonFlow is a blockchain-powered platform that facilitates the buying, selling, and retiring of carbon credits, providing a transparent and efficient marketplace for environmental impact.
 
 <img width="712" alt="carbonflow-landing" src="https://github.com/user-attachments/assets/12dfc49e-ce84-4f7b-b841-8c59040df104" />
 
